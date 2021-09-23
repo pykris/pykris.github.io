@@ -806,6 +806,11 @@ float: left;
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-success {
+	background-color: #b45677;
+	color: #fff;
+}
+
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-success1 {
 	background-color: #00a651;
 	color: #fff;
 }
